@@ -2,10 +2,10 @@
   "name": "books-g2",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlgaDzubak.github.io/books-g2",
+  "homepage": "https://GoitStudentsWorks.github.io/js_77_OlgaDzubak",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /books-g2/"
+    "build": "parcel build src/*.html --public-url /js_77_OlgaDzubak/"
   },
   "repository": {
     "type": "git",
